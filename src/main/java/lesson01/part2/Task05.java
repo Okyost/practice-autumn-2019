@@ -18,6 +18,8 @@ public class Task05 {
 
     public static void main(String[] args) {
         //напишите тут ваш код
+        Cat tom = new Cat();
+        Cat Simons = new Cat();
     }
 
     public static class Cat {
